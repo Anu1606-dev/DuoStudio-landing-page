@@ -23,5 +23,4 @@ You can view the live demo [here](#) *(replace # with your GitHub Pages URL once
 
 
 
-```bash
-git clone https://github.com/yourusername/duostudio-landing-page.git
+[Live Demo](https://anu1606-dev.github.io/DuoStudio-landing-page/)
